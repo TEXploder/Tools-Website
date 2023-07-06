@@ -3,7 +3,8 @@ A website with close to all of my public tools wich i can provide to the public
 
 ## Usage
 
-[Click Me](https://www.texploder.com/) and if you want to use one of these tools just click on the link on the Button of the display card.
+[Click Me](https://www.texploder.com/)
+if you want to use one of these tools just click on the link on the bottom of the display card.
 
 ### Access Direktly!
 
