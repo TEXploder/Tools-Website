@@ -17,6 +17,7 @@ if you want to use one of these tools just click on the link on the bottom of th
 
 | Released | Name                | Link                                                                 | Description                                              |
 |----------|---------------------|----------------------------------------------------------------------|----------------------------------------------------------|
+| &#9745; | **USB-Logger**          | [Source!](https://github.com/TEXploder/USB-Logger) / [Download!](https://github.com/TEXploder/USB-Logger/releases/tag/USB-Logger) | Log USB devices that are plugged in during the runtime of the program.                      |
 | &#9745; | **ID Generator**    | [Try Now!](https://generator.texploder.com/)                        | Generate IDs and IDs in custom formats.                  |
 | &#9745; | **URL Shortener**   | [Try Now!](https://shortex.org/)                                    | Make URLs shorter and more manageable.                   |
 | &#9745; | **Converter**       | [Try Now!](https://converter.texploder.com/)                        | Dec, Oct, Hex, Bin, Base64, Uni converter.               |
